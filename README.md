@@ -1,8 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Ahmed Al Ameen
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=200&section=header&text=Ahmed%20Al%20Ameen&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 ### ☁️ AWS & DevOps Fresher | Cloud Enthusiast
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahmedalameen-cloud&color=blue)
 
