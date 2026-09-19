@@ -83,7 +83,7 @@ Practiced deploying and configuring **Nginx using Ansible**.
 
 ---
 
-## 📚 Currently Learning
+## 📚 Learned & Practiced
 
 ☁️ AWS Cloud  
 ⚙️ DevOps  
