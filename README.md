@@ -4,10 +4,9 @@
 
 ### ☁️ AWS & DevOps Fresher
 
-</div>
-<div align="center">
+`AWS` • `Linux` • `Docker` • `Jenkins` • `Terraform` • `Ansible`
 
-<img src="https://raw.githubusercontent.com/ahmedalameen-cloud/ahmedalameen-cloud/main/github-banner.png" width="100%">
+![Profile Views](https://komarev.com/ghpvc/?username=ahmedalameen-cloud&color=00C6FF&style=for-the-badge)
 
 </div>
 
