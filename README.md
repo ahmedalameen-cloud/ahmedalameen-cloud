@@ -1,12 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=220&section=header&text=Ahmed%20Al%20Ameen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
-
-### ☁️ AWS & DevOps Fresher
-
-`AWS` • `Linux` • `Docker` • `Jenkins` • `Terraform` • `Ansible`
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedalameen-cloud&color=00C6FF&style=for-the-badge)
+<img src="./github-banner.png" width="100%">
 
 </div>
 
