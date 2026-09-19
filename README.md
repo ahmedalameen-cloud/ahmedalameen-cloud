@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=220&section=header&text=Ahmed%20Al%20Ameen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+<img src="./ithub-banner.png" alt="Ahmed Al Ameen AWS DevOps Banner" width="100%">
 
-### ☁️ AWS & DevOps Fresher
+<h3>☁️ AWS & DevOps Fresher</h3>
 
-`AWS` • `Linux` • `Docker` • `Jenkins` • `Terraform` • `Ansible`
-
-![Profile Views](https://komarev.com/ghpvc/?username=ahmedalameen-cloud&color=00C6FF&style=for-the-badge)
+<p>
+AWS • Linux • Docker • Jenkins • Terraform • Ansible
+</p>
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
