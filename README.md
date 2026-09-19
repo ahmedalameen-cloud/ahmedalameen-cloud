@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/ahmedalameen-cloud/ahmedalameen-cloud/main/github-banner.png" width="100%">
 
 </div>
 
