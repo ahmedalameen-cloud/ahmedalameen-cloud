@@ -103,13 +103,7 @@ Practiced deploying and configuring **Nginx using Ansible**.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedalameen-cloud&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalameen-cloud&layout=compact&theme=tokyonight)
-
-</div>
+🚀 Building projects and growing my GitHub contributions.
 
 
 ---
