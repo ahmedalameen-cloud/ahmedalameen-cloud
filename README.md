@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./ithub-banner.png" alt="Ahmed Al Ameen AWS DevOps Banner" width="100%">
+<img src="./github-banner.png" alt="Ahmed Al Ameen AWS DevOps Banner" width="100%">
+
+</div>
 
 <h3>☁️ AWS & DevOps Fresher</h3>
 
