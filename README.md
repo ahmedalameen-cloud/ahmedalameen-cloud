@@ -4,11 +4,7 @@
 
 </div>
 
-<h3>☁️ AWS & DevOps Fresher</h3>
 
-<p>
-AWS • Linux • Docker • Jenkins • Terraform • Ansible
-</p>
 
 </div>
 ---
