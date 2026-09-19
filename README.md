@@ -105,13 +105,12 @@ Practiced deploying and configuring **Nginx using Ansible**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedalameen-cloud&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedalameen-cloud&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalameen-cloud&layout=compact&theme=tokyonight&hide_border=true" width="40%">
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedalameen-cloud&layout=compact&theme=tokyonight)
 
 </div>
+
 
 ---
 
