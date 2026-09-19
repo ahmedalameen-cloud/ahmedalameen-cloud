@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0072FF,100:7F00FF&height=220&section=header&text=Ahmed%20Al%20Ameen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%">
+
+### ☁️ AWS & DevOps Fresher
+
+</div>
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/ahmedalameen-cloud/ahmedalameen-cloud/main/github-banner.png" width="100%">
 
 </div>
